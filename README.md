@@ -2,7 +2,11 @@
 
 This is a toy example and sandbox for implementing an MRI image viewer using the interactive widgets from IPython 2.0.
 
-[View in nbviewer](ADD LINK)
+[View in nbviewer](http://nbviewer.ipython.org/github/sburns/mrinteract/blob/master/mrinteract.ipynb)
+
+## LICENSE
+
+MIT
 
 ## Thanks
 
