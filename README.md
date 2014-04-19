@@ -14,4 +14,4 @@ This repo does very little more than stand on the shoulders of giants, namely:
 
 * [The IPython Dev Team](http://ipython.org)
 * [Jake van der Plas](https://github.com/jakevdp) for [ipywidgets](https://github.com/jakevdp/ipywidgets)
-* [Matthew Brett & the NIPy team for nibabel](https://github.com/matthew-brett)
+* [Matthew Brett](https://github.com/matthew-brett) & the [NIPy team](https://github.com/nipy) for [nibabel](https://github.com/nipy/nibabel)
